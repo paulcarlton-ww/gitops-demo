@@ -332,6 +332,7 @@ rules:
       - namespaces
     verbs:
       - get
+      - watch
   - apiGroups: [""]
     resources:
       - endpoints
