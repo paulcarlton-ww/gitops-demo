@@ -1,6 +1,6 @@
 # Developer Guide
 
-This readme contains guidance to help setup an environment to complete the task.
+This readme contains guidance to help setup an environment for demo.
 
 ## Setup
 
@@ -22,11 +22,11 @@ You can install these using the 'setup.sh' script:
 
 ### Create Kubernetes Cluster
 
-You will require a Kubernetes cluster with at least two master and two worker nodes to complete this task. You can use the script provided to provision a kind cluster or provision a cluster yourself.
+You will require a Kubernetes cluster. You can use the script provided to provision a kind cluster or provision a cluster yourself.
 
     scripts/kind.sh
 
-## Task
+## Demo
 
 Scripts are provided to automate task completion. Start by bootstraping flux:
 

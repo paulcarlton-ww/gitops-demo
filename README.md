@@ -1,5 +1,5 @@
-# Customer Exprience - Candidate Technical Challenge
+# GitOps Demo
 
-This repository contains a solution to the technical task to be set for applicants interested in joining the Weaveworks Customer Experience team.
+This repository is used for gitops demos.
 
 See the [developer guide](docs/dev-guide.sh)
